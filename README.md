@@ -1,21 +1,9 @@
-### Hi there 👋
-## &#x1f4c8; GitHub Stats
+### Hey There, I'm Casper Reedtz Andersen
+## Underneath you'll find some of my projects & how the languages I've used the most. 
 
 <a href="https://github.com/CasperRA/CasperRA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CasperRA&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/CasperRA/CasperRA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CasperRA&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-
-<a href="https://github.com/CasperRA/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CasperRA&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/CasperRA/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CasperRA&repo=fridgemasters&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
 
 <!--
 **CasperRA/CasperRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
